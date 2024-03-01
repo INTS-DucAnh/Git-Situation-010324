@@ -1,1 +1,1 @@
-console.log("situatin-a-2");
+console.log("situation-b-1");
